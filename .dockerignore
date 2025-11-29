@@ -1,0 +1,38 @@
+# Dependencies
+node_modules
+npm-debug.log*
+
+# Next.js build output (we rebuild in Docker)
+.next
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+.cursor
+
+# Environment files (we pass these as Docker env vars)
+.env
+.env.local
+.env*.local
+
+# Documentation
+README.md
+PRODUCTION_DEPLOYMENT.md
+*.md
+
+# Testing
+coverage
+
+# Misc
+.DS_Store
+*.pem
+
+# Do NOT ignore these (explicitly include src)
+!src/
+!src/**
+!public/
+!public/**

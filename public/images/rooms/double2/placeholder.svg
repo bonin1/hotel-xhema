@@ -1,0 +1,12 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#829ab1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bcccdc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#grad6)"/>
+  <text x="50%" y="45%" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#1a365d" font-weight="bold">Double Room #2</text>
+  <text x="50%" y="55%" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#243b53">28m² • Double Bed • Netflix • AC</text>
+  <text x="50%" y="62%" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#334e68">Photo placeholder - Add your room images here</text>
+</svg>

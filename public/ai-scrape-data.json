@@ -1,0 +1,86 @@
+{
+  "website_info": {
+    "name": "Hotel Xhema",
+    "url": "https://hotelxhema.com",
+    "description": "Expert hotel services in Prishtina, Kosovo. Accommodation, room service & housekeeping. Contact us today for a free consultation!",
+    "keywords": "hotel services, accommodation, room service, housekeeping, Prishtina Kosovo",
+    "last_updated": "2024-01-01T00:00:00Z"
+  },
+  "services": [
+    "Accommodation",
+    "Residential Accommodation",
+    "Commercial Accommodation",
+    "Hotel Services",
+    "Room Service",
+    "Housekeeping"
+  ],
+  "locations": [
+    "Prishtine, Kosovo"
+  ],
+  "contact": {
+    "address": "Maliq Pash\u00c3\u00ab Gjinolli, Prishtina 10000",
+    "phone": "044177665",
+    "email": "info@hotelxhema.com"
+  },
+  "social_links": [
+    "https://www.facebook.com/profile.php?id=100092573520464",
+    "https://www.instagram.com/hotelxhema/"
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "title": "Hotel Xhema - Professional Hotel Services in Prishtina, Kosovo",
+      "description": "Expert hotel services in Prishtina, Kosovo. Accommodation, room service & housekeeping. Contact us today for a free consultation!",
+      "type": "homepage"
+    },
+    {
+      "path": "/about",
+      "title": "About Hotel Xhema",
+      "description": "Learn about our professional Hotel Services and expertise",
+      "type": "about"
+    },
+    {
+      "path": "/contact",
+      "title": "Contact Hotel Xhema",
+      "description": "Get in touch with our expert team for your Hotel Services needs",
+      "type": "contact"
+    }
+  ],
+  "service_pages": [
+    {
+      "path": "/garage-door-installation/",
+      "title": "Accommodation Services in Prishtine, Kosovo",
+      "description": "Professional Accommodation services in Prishtine, Kosovo. Expert craftsmanship and Contact us!",
+      "type": "service"
+    },
+    {
+      "path": "/hotel-services/",
+      "title": "Hotel Services Services in Prishtine, Kosovo",
+      "description": "Professional Hotel Services services in Prishtine, Kosovo. Expert craftsmanship and Contact us!",
+      "type": "service"
+    }
+  ],
+  "location_pages": [
+    {
+      "path": "/prishtine-kosovo/",
+      "title": "Hotel Xhema in Prishtine, Kosovo",
+      "description": "Professional accommodation, hotel services services in Prishtine, Kosovo",
+      "type": "location"
+    }
+  ],
+  "blog_topics": [],
+  "seo_data": {
+    "primary_keyword": "Hotel Services",
+    "secondary_keywords": [
+      "Accommodation",
+      "Hotel Services"
+    ],
+    "target_locations": [
+      "Prishtine, Kosovo"
+    ],
+    "business_type": "Hotel",
+    "service_areas": [
+      "Prishtine, Kosovo"
+    ]
+  }
+}

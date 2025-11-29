@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "totalProjects": 500,
+    "happyClients": 450,
+    "yearsExperience": 10,
+    "averageRating": 4.9
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Professional Accommodation Project",
+      "category": "Accommodation",
+      "image": "/assets/config/placeholder-image.png",
+      "date": "2024",
+      "location": "Prishtine, Kosovo",
+      "description": "Complete accommodation with professional installation and quality materials.",
+      "features": [
+        "Professional Installation",
+        "Quality Materials",
+        "Expert Service",
+        "Customer Satisfaction"
+      ],
+      "client": "Residential Client",
+      "duration": "1-2 Days",
+      "tags": [
+        "Accommodation",
+        "Prishtine",
+        "Kosovo"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Professional Hotel Services Project",
+      "category": "Hotel Services",
+      "image": "/assets/config/placeholder-image.png",
+      "date": "2024",
+      "location": "Prishtine, Kosovo",
+      "description": "Complete hotel services with professional installation and quality materials.",
+      "features": [
+        "Professional Installation",
+        "Quality Materials",
+        "Expert Service",
+        "Customer Satisfaction"
+      ],
+      "client": "Commercial Client",
+      "duration": "1-2 Days",
+      "tags": [
+        "Hotel Services",
+        "Prishtine",
+        "Kosovo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+# -----------------------------
+# Business Info
+# -----------------------------
+BUSINESS_NAME: "Hotel Xhema"  
+WEBSITE_URL: "https://hotelxhema.com"
+TONE: "Professional"
+LOGO_URL: "https://hotelxhema.com/logo/Logo.svg"
+
+# -----------------------------
+# Business Categories (Google My Business)
+# -----------------------------
+CATEGORIES:
+  PRIMARY: "Hotel"
+  SECONDARY:
+    - "Accommodation"
+    - "Lodging"
+    - "Resort"
+    - "Hospitality Service"
+
+# -----------------------------
+# Core Services with Sub-Services
+# -----------------------------
+SERVICES:
+  - NAME: "Accommodation"
+    URL: "/accommodation/"
+    SUB_SERVICES:
+      - NAME: "Residential Accommodation"
+        URL: "/residential-accommodation/"
+      - NAME: "Commercial Accommodation"
+        URL: "/commercial-accommodation/"
+  
+  - NAME: "Hotel Services"
+    URL: "/hotel-services/"
+    SUB_SERVICES:
+      - NAME: "Room Service"
+        URL: "/room-service/"
+      - NAME: "Housekeeping"
+        URL: "/housekeeping/"
+
+# -----------------------------
+# Flattened Service Lists (for quick access)
+# -----------------------------
+# Core Services Only
+CORE_SERVICES:
+  - "Accommodation"
+  - "Hotel Services"
+
+CORE_SERVICES_URLS:
+  - "/garage-door-installation/"
+  - "/hotel-services/"
+
+# All Services (Core + Sub-Services)
+ALL_SERVICES:
+  - "Accommodation"
+  - "Residential Accommodation"
+  - "Commercial Accommodation"
+  - "Hotel Services"
+  - "Room Service"
+  - "Housekeeping"
+
+ALL_SERVICES_URLS:
+  - "/accommodation/"
+  - "/residential-accommodation/"
+  - "/commercial-accommodation/"
+  - "/hotel-services/"
+  - "/room-service/"
+  - "/housekeeping/"
+
+# -----------------------------
+# Locations (Service Areas)
+# -----------------------------
+LOCATIONS:
+  - CITY: "Prishtine"
+    STATE: "Kosovo"
+
+LOCATIONS_MD:
+  - "/prishtine-kosovo/"
+
+# Array formats for schema markup
+LOCATIONS_ARRAY:
+  - "Prishtine, Kosovo"
+
+
+# -----------------------------
+# Contact Information 
+# -----------------------------
+CONTACT:
+  ADDRESS: "Maliq Pashë Gjinolli, Prishtina 10000"
+  STREET: "Maliq Pashë Gjinolli"
+  CITY: "Prishtina"
+  STATE: "Kosovo"
+  ZIP: "10000"
+  AREA_CODE: "381"
+  PHONE: "044177665"
+  EMAIL: "info@hotelxhema.com"
+  ADDRESS_VISIBILITY: "HIDDEN" # SAB (Service Area Business)
+
+# -----------------------------
+# Business Hours
+# -----------------------------
+HOURS:
+  MONDAY: "24/7"
+  TUESDAY: "24/7"
+  WEDNESDAY: "24/7"
+  THURSDAY: "24/7"
+  FRIDAY: "24/7"
+  SATURDAY: "24/7"
+  SUNDAY: "24/7"
+
+# -----------------------------
+# Google Maps Integration
+# -----------------------------
+GOOGLE_MAPS:
+  SHORT_LINK: "https://maps.app.goo.gl/uribttj9g7FUyGsG9"
+  FULL_URL: "https://www.google.com/maps/place/Hotel+Xhema/@42.669893,21.1650279,17z/data=!3m1!4b1!4m9!3m8!1s0x13549ff8a721d219:0x478263bba7642640!5m2!4m1!1i2!8m2!3d42.669893!4d21.1650279!16s%2Fg%2F11sc1mxs9g?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
+
+# -----------------------------
+# Social Media Links
+# -----------------------------
+SOCIAL_MEDIA:
+  FACEBOOK:
+    URL: "https://www.facebook.com/profile.php?id=100092573520464"
+    EMAIL: "info@hotelxhema.com"
+  INSTAGRAM:
+    URL: "https://www.instagram.com/hotelxhema/"
+    EMAIL: "info@hotelxhema.com"
+
+# -----------------------------
+# Meta Information
+# ----------------------------- 
+META:
+  title: "Hotel Xhema - Professional Hotel Services in Prishtina, Kosovo"
+  description: "Expert hotel services in Prishtina, Kosovo. Accommodation, room service & housekeeping. Contact us today for a free consultation!"
+  keywords: "hotel services, accommodation, room service, housekeeping, Prishtina Kosovo"
+
+# -----------------------------
+# SEO Keywords
+# -----------------------------
+PRIMARY_KEYWORD: "Hotel Services"
+
+# -----------------------------
+# Call to Action
+# -----------------------------
+CTA_TEXT: "Contact us!"

@@ -1,0 +1,40 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "category": "General",
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Prishtine, Kosovo, along with surrounding areas. Our professional services are available throughout these communities."
+    },
+    {
+      "id": 2,
+      "category": "General",
+      "question": "How can I contact you?",
+      "answer": "You can reach us at 044177665 or email us at info@hotelxhema.com. We&apos;re available 24/7."
+    },
+    {
+      "id": 3,
+      "category": "Services",
+      "question": "What services do you offer?",
+      "answer": "We offer Accommodation, Hotel Services. Contact us for a free consultation to discuss your specific needs."
+    },
+    {
+      "id": 4,
+      "category": "Services",
+      "question": "Do you provide free estimates?",
+      "answer": "Yes, we provide completely free, no-obligation estimates for all our services. Contact us at 044177665 to schedule your estimate."
+    },
+    {
+      "id": 5,
+      "category": "Pricing",
+      "question": "How much do your services cost?",
+      "answer": "Pricing varies depending on the scope of work, materials needed, and specific requirements. We provide transparent, upfront pricing with no hidden fees. Contact us for a free estimate."
+    },
+    {
+      "id": 6,
+      "category": "Scheduling",
+      "question": "How quickly can you start a project?",
+      "answer": "We offer same-day service for emergency repairs. For installations and larger projects, we typically can schedule within a few days. Call 044177665 to check current availability."
+    }
+  ]
+}

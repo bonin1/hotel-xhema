@@ -1,0 +1,21 @@
+{
+  "name": "hotel-xhema-chat-server",
+  "version": "1.0.0",
+  "description": "Socket.io server for Hotel Xhema live chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["socket.io", "chat", "mysql"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.8.1",
+    "mysql2": "^3.11.5",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

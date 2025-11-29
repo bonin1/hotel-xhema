@@ -1,0 +1,16 @@
+Placeholder Note:
+================
+
+The attraction detail pages have been created with the following image structure.
+Please add actual photos for each attraction in these folders:
+
+/newborn/ - main.jpg, detail.jpg, crowd.jpg
+/cathedral/ - main.jpg, interior.jpg, exterior.jpg
+/library/ - main.jpg, domes.jpg, detail.jpg
+/germia/ - main.jpg, trails.jpg, pool.jpg
+/museum/ - main.jpg, artifacts.jpg, exhibition.jpg
+/citycenter/ - main.jpg, interior.jpg, dining.jpg
+/skanderbeg/ - main.jpg, statue.jpg, cafes.jpg
+/ethnographic/ - main.jpg, interior.jpg, artifacts.jpg
+
+Recommended image sizes: 1200x800px or similar aspect ratio
