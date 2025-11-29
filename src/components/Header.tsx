@@ -4,8 +4,8 @@ import { useState, useEffect } from 'react';
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from 'next/navigation';
-import { useLanguage } from "@/contexts/LanguageContext";
-import { t } from "@/utils/translations";
+import { useLanguage } from "@/lib/LanguageContext";
+import { t } from "@/lib/translations";
 
 export default function Header() {
   const { language, setLanguage } = useLanguage();

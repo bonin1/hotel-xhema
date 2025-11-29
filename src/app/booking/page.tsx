@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { useLanguage } from "@/contexts/LanguageContext";
-import { t } from "@/utils/translations";
+import { useLanguage } from "@/lib/LanguageContext";
+import { t } from "@/lib/translations";
 import { Calendar } from "@/components/ui/calendar";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { Button } from "@/components/ui/button";

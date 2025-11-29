@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { useScrollAnimation } from "@/lib/useScrollAnimation";
 
 export default function PrivacyPolicyPage() {
   const introSection = useScrollAnimation(0.1);

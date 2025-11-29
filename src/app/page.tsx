@@ -3,13 +3,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect, useCallback } from "react";
-import { useLanguage } from "@/contexts/LanguageContext";
-import { t } from "@/utils/translations";
+import { useLanguage } from "@/lib/LanguageContext";
+import { t } from "@/lib/translations";
 import HeroCarousel from "@/components/HeroCarousel";
 import ReviewsSection from "@/components/ReviewsSection";
 import AttractionsCarousel from "@/components/AttractionsCarousel";
 import FAQSection from "@/components/FAQSection";
-import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { useScrollAnimation } from "@/lib/useScrollAnimation";
 
 export default function Home() {
   const { language } = useLanguage();

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { Wifi, Snowflake, Tv, Coffee, Car, Shield, Clock, Users } from "lucide-react";
-import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { useScrollAnimation } from "@/lib/useScrollAnimation";
 
 const roomAmenities = [
   {

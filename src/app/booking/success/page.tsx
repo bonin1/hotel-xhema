@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useState, Suspense } from "react";
-import { useLanguage } from "@/contexts/LanguageContext";
-import { t } from "@/utils/translations";
+import { useLanguage } from "@/lib/LanguageContext";
+import { t } from "@/lib/translations";
 
 function BookingSuccessContent() {
   const router = useRouter();

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { attractionsSEOData } from "@/lib/seo-config";
-import { useScrollAnimation } from "@/hooks/useScrollAnimation";
+import { useScrollAnimation } from "@/lib/useScrollAnimation";
 
 const thingsToDo = [
   {

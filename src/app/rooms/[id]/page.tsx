@@ -4,8 +4,8 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { useLanguage } from '@/contexts/LanguageContext';
-import { t, type Language } from '@/utils/translations';
+import { useLanguage } from '@/lib/LanguageContext';
+import { t, type Language } from '@/lib/translations';
 
 // Feature translation helper (same as rooms page)
 const translateFeature = (feature: string, lang: Language): string => {

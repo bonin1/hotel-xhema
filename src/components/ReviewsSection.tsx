@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState, useRef } from 'react';
-import { useLanguage } from '@/contexts/LanguageContext';
+import { useLanguage } from '@/lib/LanguageContext';
 import ReviewCard from './ReviewCard';
 import type { Review } from '@/utils/reviewsParser';
 

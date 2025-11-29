@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { LanguageProvider } from "@/contexts/LanguageContext";
+import { LanguageProvider } from "@/lib/LanguageContext";
 import LayoutContent from "@/components/LayoutContent";
 import { generateMetadataFromConfig } from "@/lib/seo-metadata";
 import { BUSINESS_INFO, CONTACT } from "@/lib/business-config";

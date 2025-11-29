@@ -3,8 +3,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import { useLanguage } from '@/contexts/LanguageContext';
-import { t, type Language } from '@/utils/translations';
+import { useLanguage } from '@/lib/LanguageContext';
+import { t, type Language } from '@/lib/translations';
 
 export default function RoomsPage() {
   const { language } = useLanguage();

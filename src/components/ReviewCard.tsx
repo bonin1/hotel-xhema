@@ -1,7 +1,7 @@
 "use client";
 
 import Image from 'next/image';
-import { useLanguage } from '@/contexts/LanguageContext';
+import { useLanguage } from '@/lib/LanguageContext';
 import type { Review, GoogleReview, BookingReview } from '@/utils/reviewsParser';
 import { getRatingStars, getBookingAverageRating, formatReviewDate } from '@/utils/reviewsParser';
 
