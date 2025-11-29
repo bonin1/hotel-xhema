@@ -12,13 +12,14 @@ RUN npm ci
 # Copy ALL source code explicitly
 COPY src ./src
 COPY public ./public
+COPY data ./data
 COPY next.config.js ./
 COPY tsconfig.json ./
 COPY tailwind.config.ts ./
 COPY postcss.config.mjs ./
 
 # Debug: List src directory to verify files are copied
-RUN ls -la src/ && ls -la src/hooks/ && ls -la src/contexts/ && ls -la src/utils/
+RUN ls -la src/ && ls -la src/lib/
 
 # Build the application
 RUN npm run build
